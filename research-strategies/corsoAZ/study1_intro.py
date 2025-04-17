@@ -2,7 +2,7 @@
 from AlgorithmImports import *
 # endregion
 
-class VirtualFluorescentYellowGoat(QCAlgorithm):
+class Study1Intro(QCAlgorithm):
     """
     QQQ Trading Algorithm with Trailing Stop Loss
     

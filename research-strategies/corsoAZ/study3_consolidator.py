@@ -10,7 +10,7 @@ at market open. It goes long on gap downs and short on gap ups, then exits all p
 from AlgorithmImports import *
 # endregion
 
-class AdaptableVioletJaguar(QCAlgorithm):
+class Study3Consolidator(QCAlgorithm):
     """
     A mean-reversion gap trading algorithm for SPY
     
