@@ -10,7 +10,7 @@ It creates an equally-weighted portfolio of these 10 stocks.
 from AlgorithmImports import *
 # endregion
 
-class CrawlingBrownLion(QCAlgorithm):
+class Study4Universe(QCAlgorithm):
     """
     A small-cap investing algorithm that rebalances monthly
     

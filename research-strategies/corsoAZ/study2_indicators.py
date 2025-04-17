@@ -11,7 +11,7 @@ from AlgorithmImports import *
 from collections import deque
 # endregion
 
-class FocusedFluorescentYellowShark(QCAlgorithm):
+class Study2Indicator(QCAlgorithm):
     """
     A breakout trading algorithm for SPY using 52-week price ranges and trend confirmation
     
